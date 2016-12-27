@@ -1,0 +1,43 @@
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Dec 27 17:45:02 2016
+-----------------------------------------------------------------
+
+You must identify the directory where the old cluster binaries reside.
+Please use the -b command-line option or the PGBINOLD environment variable.
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Dec 27 17:47:13 2016
+-----------------------------------------------------------------
+
+You must identify the directory where the old cluster binaries reside.
+Please use the -b command-line option or the PGBINOLD environment variable.
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Dec 27 17:47:29 2016
+-----------------------------------------------------------------
+
+You must identify the directory where the old cluster binaries reside.
+Please use the -b command-line option or the PGBINOLD environment variable.
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Dec 27 17:49:07 2016
+-----------------------------------------------------------------
+
+You must identify the directory where the new cluster binaries reside.
+Please use the -B command-line option or the PGBINNEW environment variable.
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Dec 27 17:49:19 2016
+-----------------------------------------------------------------
+
+You must identify the directory where the old cluster binaries reside.
+Please use the -b command-line option or the PGBINOLD environment variable.
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Dec 27 17:49:38 2016
+-----------------------------------------------------------------
+
+You must identify the directory where the old cluster binaries reside.
+Please use the -b command-line option or the PGBINOLD environment variable.
+Try "pg_upgrade --help" for more information.

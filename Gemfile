@@ -47,7 +47,6 @@ end
 
 #for Heroku:
 group :production do
-	gem 'pg'
 	gem 'rails_12factor'
 end
 
